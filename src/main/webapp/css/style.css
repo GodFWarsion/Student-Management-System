@@ -1,0 +1,55 @@
+body {
+    background-color: rgba(127, 4, 212, 1);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: grey;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 300px;
+    text-align: center;
+}
+
+h3 {
+    color: purple;
+    text-align: center;
+}
+
+.form-control {
+    background-color: white;
+    color: black;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    background-color: purple;
+    border: none;
+    color: white;
+}
+
+button:hover {
+    background-color: darkgrey;
+}
+
+a {
+    color: purple;
+}
+
+a:hover {
+    color: white;
+}
+
+.copyright {
+    margin-top: 20px;
+    font-size: 12px;
+    color: black;
+}
