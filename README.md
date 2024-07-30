@@ -26,6 +26,6 @@ The **Student Management System** is a Java-based web application developed usin
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/GodFWarsion/student-management-system.git
+   git clone https://github.com/GodFWarsion/Student-Management-System.git
    cd student-management-system
 
