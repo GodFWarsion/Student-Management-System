@@ -3,6 +3,9 @@
 ## Overview
 The **Student Management System** is a Java-based web application developed using Spring Boot, Hibernate, JPA, and JSP. This project provides a comprehensive platform for managing student information, course lists, and academic records.
 
+!Java
+!CSS
+
 ## Features
 - **Course List**: Displays available courses.
 - **Student Registration and Login**: Students can register and log in.
